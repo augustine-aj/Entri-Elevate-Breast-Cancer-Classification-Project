@@ -57,7 +57,7 @@ The dataset used in this project is the Breast Cancer Wisconsin dataset from `sc
 The performance of each algorithm is evaluated based on accuracy, precision, recall, and F1 score. A confusion matrix heatmap is also generated for visual comparison.
 
 - **Best Performing Model**: Logistic Regression with Accuracy: 0.9737
-- **Worst Performing Model**: 
+- **Worst Performing Model**: Decision Tree with Accuracy: 0.9474
 
 ## Conclusion
 
